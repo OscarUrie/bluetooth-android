@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bluetooth UNO</string>
+    <string name="titulo">Enciende LED</string>
+    <string name="textoBof">Encender Bluetooth</string>
+    <string name="textoBon">Apagar BLuetooth</string>
+    <string name="textoLof">Encender LED</string>
+    <string name="textoLon">Apagar LED</string>
+    <string name="textobus">Conectarse a un Dispositivo</string>
+    <string name="tituloD">Dispositivos Vinculados</string>
+    <string name="textCancel">Cancelar</string>
+    <string name="tituloE">Encontrar Dispositivos</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="mostrarText">Conectate a un dispositivo</string>
+    <string name="buscarD">Buscar Dispositivos</string>
+</resources>
