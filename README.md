@@ -1,4 +1,4 @@
-PROYECTO TU G FA
+PROYECTO DE BLUETOOTH
 ================
 
 Enlaces a android developer
